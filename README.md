@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=s52CTJiUFM8
 
 ## Technology
 Text to speech: https://aws.amazon.com/polly/
+
+## Scale of Project
+Create 50 Videos automatically every day.
